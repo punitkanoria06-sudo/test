@@ -1,0 +1,69 @@
+{
+    "102": {
+        "name": "punit kanoria",
+        "balance": 12500.0,
+        "transactions": [
+            "Received \u20b9500.0 from Account 101"
+        ],
+        "history": [
+            "09-09-2026 12:19 PM - Received \u20b92000.00 from 101"
+        ]
+    },
+    "105": {
+        "name": "Punit Kanoria",
+        "pin": "1234",
+        "balance": 6000.0,
+        "transactions": [
+            "Withdrawn: \u20b92000.0",
+            "Deposited: \u20b93000.0"
+        ]
+    },
+    "1001": {
+        "name": "punit kanoria",
+        "pin": "1234",
+        "balance": 8000.0,
+        "transactions": [
+            "Deposited: \u20b92000.0 | 08-09-2026 11:03 AM",
+            "Withdrawn: \u20b91000.0 | 08-09-2026 11:03 AM",
+            "Received Rs.2000.0 from 1003 | 09-09-2026 11:37 AM"
+        ]
+    },
+    "1003": {
+        "name": "Punit kanoria",
+        "pin": "1234",
+        "balance": 4000.0,
+        "transactions": [
+            "Account Created | 09-09-2026 11:34 AM",
+            "Deposited Rs.2000.0 | 09-09-2026 11:34 AM",
+            "Withdrawn Rs.1000.0 | 09-09-2026 11:35 AM",
+            "Transferred Rs.2000.0 to 1001 | 09-09-2026 11:37 AM"
+        ]
+    },
+    "1002": {
+        "name": "Punit kanoria",
+        "pin": "1234",
+        "balance": 5000.0,
+        "history": [
+            "09-09-2026 12:09 PM - Account created with \u20b95000.00"
+        ]
+    },
+    "101": {
+        "name": "Punit Kanoria",
+        "pin": "1234",
+        "balance": 4000.0,
+        "history": [
+            "09-09-2026 12:17 PM - Account created with \u20b95000.00",
+            "09-09-2026 12:18 PM - Deposited \u20b92000.00",
+            "09-09-2026 12:18 PM - Withdrawn \u20b91000.00",
+            "09-09-2026 12:19 PM - Transferred \u20b92000.00 to 102"
+        ]
+    },
+    "885398": {
+        "name": "Riyaz Ansari",
+        "pin": "4321",
+        "balance": 5000.0,
+        "transactions": [
+            "14-09-2026 11:34 AM - Account Created with Rs. 5000.0"
+        ]
+    }
+}
