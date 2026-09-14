@@ -1,0 +1,17 @@
+{
+    "1001": {
+        "name": "Punit Kanoria",
+        "pin": "1234",
+        "balance": 6000.0,
+        "transactions": [
+            "14-09-2026 02:18 PM - New Account Created",
+            "14-09-2026 02:28 PM - Received Rs. 1000.0 from 101"
+        ]
+    },
+    "101": {
+        "name": "Punit Kanoria",
+        "pin": "0000",
+        "balance": 2101.0,
+        "transactions": []
+    }
+}
